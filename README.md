@@ -1,4 +1,6 @@
-# ML-Santander-Customer-Transcation
+# ML-Santander-Customer-Transcation 
+
+![image](https://user-images.githubusercontent.com/69722333/170834063-442a91e3-70cf-42fe-8d63-16741ad88d56.png)
 Building ML Model for Santander Customer Transaction Prediction 
 
 Check out the Jupyter notebook here: https://jovian.ai/ram9008478075/ml-project2
